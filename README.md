@@ -17,9 +17,9 @@
 - [PHP Intelephense](http://intelephense.net)
 - [PHP Intellisense - Crane](https://hvy.io/crane)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Prettier Now](https://github.com/remimarsal/prettier-now-vscode.git)
 - [Python](https://github.com/Microsoft/vscode-python)
 - [Sync-Rsync](https://github.com/thisboyiscrazy/vscode-rsync)
+- Swig
 - Thrift
 - [TSLint](https://github.com/Microsoft/vscode-tslint.git)
 - [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces#readme)
